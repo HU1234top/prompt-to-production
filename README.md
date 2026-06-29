@@ -22,7 +22,8 @@ LLM Agent 擅长单次任务，但**多步骤业务技能**（涉及数据获取
 | 🟠 **失败后过度发挥** | 执行失败后 Agent 反过来"审查"指令，列出7条修改建议，实际只有1条有问题 |
 
 ### 六层防御框架
-![6-Layer Defense Framework](architecture.png)
+<img src="architecture.png" width="600">
+
 
 每一层解决**不同环节**的问题，串联防护：
 
